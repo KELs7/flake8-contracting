@@ -11,3 +11,4 @@ pip install -e .
 ## TODO
 - [ ] ignore as much errors that might conflict with the linter
 - [ ] list all available error codes in README
+- [ ] probably add tests
