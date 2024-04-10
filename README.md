@@ -4,7 +4,7 @@ Flake8 plugin that lints contracts written in python on [Xian-network](https://g
 
 ## Installation
 ```
-git clone 
+git clone https://github.com/KELs7/flake8-contracting.git 
 cd flake8-contracting
 pip install -e .
 ```
