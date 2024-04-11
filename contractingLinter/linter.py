@@ -1,7 +1,7 @@
 import ast
 import sys
 
-import contractingLinter.config
+import contractingLinter.config as config
 
 from contractingLinter.whitelists import ALLOWED_AST_TYPES, ALLOWED_ANNOTATION_TYPES, VIOLATION_TRIGGERS, ILLEGAL_BUILTINS, ILLEGAL_AST_TYPES
 
