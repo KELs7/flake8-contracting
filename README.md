@@ -3,8 +3,7 @@
 Flake8 plugin that lints contracts written in python on [Xian-network](https://github.com/xian-network/)
 
 ## Prerequisite
-python>=3.8
-flake8>=3.7 
+python>=3.8, flake8>=3.7 
 
 ## Installation
 ```
