@@ -45,6 +45,7 @@ Flake8 will flag any line of code containing any of the below as undefined with 
 * @export  
 * ctx
 * now
+
 To avoid this add the comment `# noqa:  F821` to the line of code containing any of the above.
 Example:
 ```python
